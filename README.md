@@ -1,2 +1,2 @@
-# Preto discord bot
+# Preto's discord bot
  
